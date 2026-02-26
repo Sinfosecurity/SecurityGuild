@@ -124,10 +124,12 @@ function renderQuestion() {
   const current = quizIndex + 1;
   const progressPct = (current / total) * 100;
 
-  let html = `<div class="quiz-progress" role="progressbar" aria-valuenow="${current}" aria-valuemin="1" aria-valuemax="${total}">
+  let html = `<div class="quiz-nav">
+    <button type="button" class="btn btn--back" id="quiz-back-btn" aria-label="Back to topics">← Back to Topics</button>
+  </div>
+  <div class="quiz-progress" role="progressbar" aria-valuenow="${current}" aria-valuemin="1" aria-valuemax="${total}">
     <div class="quiz-progress__bar" style="width: ${progressPct}%"></div>
     <div class="quiz-progress__meta">
-      <button type="button" class="btn btn--back" id="quiz-back-btn" aria-label="Back to topics">← Back</button>
       <span class="quiz-progress__counter">${current} of ${total}</span>
       <span class="timer-badge" id="timer"></span>
     </div>
