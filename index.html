@@ -3,32 +3,49 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>NYS Security Guard Quiz</title>
+  <title>NYS Security Guard Quiz | Exam Simulator</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-  <div id="app">
-    <header>
-      <h1>NYS Security Guard 8-Hour Pre-Assignment Training Exam</h1>
+  <div id="app" class="app">
+    <header class="app-header">
+      <div class="header-inner">
+        <h1 class="header-title">NYS Security Guard</h1>
+        <p class="header-subtitle">8-Hour Pre-Assignment Training Exam Simulator</p>
+      </div>
     </header>
-    <main id="main">
-      <section id="category-selection">
-        <h2>Select a Category</h2>
-        <div class="categories">
-          <button data-category="role_of_security_guard">Role of Security Guard</button>
-          <button data-category="legal_powers_limitations">Legal Powers &amp; Limitations</button>
-          <button data-category="emergency_situations">Emergency Situations</button>
-          <button data-category="communications_public_relations">Communications &amp; Public Relations</button>
-          <button data-category="access_control">Access Control</button>
-          <button data-category="ethics_conduct">Ethics &amp; Conduct</button>
+
+    <main id="main" class="main">
+      <section id="category-selection" class="screen screen--category">
+        <div class="card card--hero">
+          <h2 class="card-title">Choose Your Practice Mode</h2>
+          <p class="card-desc">Select a topic to focus on, or take a full timed mock exam.</p>
         </div>
-        <div class="start-mock">
-          <button id="start-mock-exam">Start 25-Question Timed Mock Exam</button>
+
+        <div class="card">
+          <h3 class="section-label">Topic Practice</h3>
+          <div class="categories">
+            <button type="button" class="btn btn--category" data-category="role_of_security_guard">Role of Security Guard</button>
+            <button type="button" class="btn btn--category" data-category="legal_powers_limitations">Legal Powers &amp; Limitations</button>
+            <button type="button" class="btn btn--category" data-category="emergency_situations">Emergency Situations</button>
+            <button type="button" class="btn btn--category" data-category="communications_public_relations">Communications &amp; Public Relations</button>
+            <button type="button" class="btn btn--category" data-category="access_control">Access Control</button>
+            <button type="button" class="btn btn--category" data-category="ethics_conduct">Ethics &amp; Conduct</button>
+          </div>
+        </div>
+
+        <div class="card">
+          <h3 class="section-label">Full Mock Exam</h3>
+          <button type="button" class="btn btn--primary btn--mock" id="start-mock-exam">Start 25-Question Timed Mock Exam</button>
         </div>
       </section>
-      <section id="quiz" class="hidden"></section>
-      <section id="review" class="hidden"></section>
-      <section id="results" class="hidden"></section>
+
+      <section id="quiz" class="screen screen--quiz hidden"></section>
+      <section id="review" class="screen screen--review hidden"></section>
+      <section id="results" class="screen screen--results hidden"></section>
     </main>
   </div>
   <script src="script.js"></script>
