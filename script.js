@@ -95,7 +95,7 @@ function startMockExam() {
     );
     return;
   }
-  quizQuestions = shuffle(combined).slice(0, 25);
+  quizQuestions = shuffle(combined).slice(0, 100);
   quizCategory = 'mock';
   quizIndex = 0;
   userAnswers = [];
