@@ -1,0 +1,14 @@
+{
+  "name": "nys-security-guard-quiz",
+  "version": "1.0.0",
+  "description": "NYS Security Guard 8-Hour Pre-Assignment Training Quiz App",
+  "scripts": {
+    "start": "serve . -l ${PORT:-3000}"
+  },
+  "dependencies": {
+    "serve": "^14.2.4"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

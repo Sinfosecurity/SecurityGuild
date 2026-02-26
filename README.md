@@ -33,6 +33,13 @@ Each file must be a JSON array of objects like:
 
 Note: the `questions/*.json` files in this repo may be empty placeholders until you populate them.
 
+## Deploy to Railway
+1. Go to [railway.app](https://railway.app) and sign in (GitHub).
+2. Click **New Project** → **Deploy from GitHub repo**.
+3. Select `Sinfosecurity/SecurityGuild` (or your fork).
+4. Railway will detect the Node.js app and deploy. No extra config needed.
+5. After deploy, click **Generate Domain** to get a public URL.
+
 ## Deploy to Vercel or Netlify
 Upload this folder as a static site. No dynamic backend required.
 
