@@ -1,0 +1,277 @@
+[
+  {
+    "question": "What is the primary role of a security guard at a client site?",
+    "options": {
+      "A": "To enforce criminal laws as a police officer",
+      "B": "To deter, observe, document, and report according to post orders",
+      "C": "To decide who is guilty and issue penalties",
+      "D": "To conduct investigations for the district attorney"
+    },
+    "correct": "B",
+    "explanation": "Security guards primarily deter and observe, then document and report incidents per post orders. They are not police and do not determine guilt."
+  },
+  {
+    "question": "Which document most directly defines a guard’s duties at a specific location?",
+    "options": {
+      "A": "The U.S. Constitution",
+      "B": "The employee handbook from a different site",
+      "C": "Post orders and site procedures",
+      "D": "A visitor’s request"
+    },
+    "correct": "C",
+    "explanation": "Post orders (often combined with site procedures) specify what to do, when to do it, and who to notify for that particular post."
+  },
+  {
+    "question": "A guard sees a policy violation that is not an emergency. What is the best first step?",
+    "options": {
+      "A": "Ignore it to avoid conflict",
+      "B": "Follow post orders: observe, address if authorized, and report through the proper chain",
+      "C": "Physically restrain the person immediately",
+      "D": "Post it on social media to warn others"
+    },
+    "correct": "B",
+    "explanation": "Non-emergency issues should be handled per post orders and chain of command, with documentation and appropriate notification."
+  },
+  {
+    "question": "What is a key reason for routine patrols?",
+    "options": {
+      "A": "To replace the need for locks and alarms",
+      "B": "To create an unpredictable presence that deters problems and discovers hazards early",
+      "C": "To search people without cause",
+      "D": "To avoid writing reports"
+    },
+    "correct": "B",
+    "explanation": "Patrols help deter incidents and identify safety/security issues early (open doors, hazards, suspicious activity) so they can be addressed promptly."
+  },
+  {
+    "question": "Which is the best example of an objective report entry?",
+    "options": {
+      "A": "The man looked guilty and sketchy",
+      "B": "I think she intended to steal",
+      "C": "At 14:05, I observed a male wearing a red hoodie place a boxed item into a backpack",
+      "D": "He was definitely a criminal"
+    },
+    "correct": "C",
+    "explanation": "Objective reporting records observable facts (who/what/when/where) without conclusions or opinions."
+  },
+  {
+    "question": "What does “chain of command” mean in a security context?",
+    "options": {
+      "A": "Calling the news before management",
+      "B": "Reporting and escalating issues through designated supervisors and contacts",
+      "C": "Taking orders from any employee who asks",
+      "D": "Only contacting law enforcement for every issue"
+    },
+    "correct": "B",
+    "explanation": "Chain of command is the established reporting structure to ensure information goes to the right people in the right order."
+  },
+  {
+    "question": "Why is accurate timekeeping important in security work?",
+    "options": {
+      "A": "It makes reports longer",
+      "B": "It supports incident reconstruction and credibility",
+      "C": "It avoids the need for witnesses",
+      "D": "It replaces video evidence"
+    },
+    "correct": "B",
+    "explanation": "Accurate times help establish timelines, support investigations, and increase the credibility of reports."
+  },
+  {
+    "question": "Which action best supports professionalism and public confidence?",
+    "options": {
+      "A": "Arguing loudly to prove authority",
+      "B": "Using respectful communication, proper uniform, and calm demeanor",
+      "C": "Making jokes about a person’s appearance",
+      "D": "Threatening arrest to gain compliance"
+    },
+    "correct": "B",
+    "explanation": "Professional appearance and respectful, calm communication help de-escalate and improve public trust."
+  },
+  {
+    "question": "What is the most appropriate purpose of a daily activity log (DAR) or similar log?",
+    "options": {
+      "A": "To record rumors about employees",
+      "B": "To document routine events, patrols, and notable observations for continuity",
+      "C": "To replace incident reports entirely",
+      "D": "To list personal opinions about visitors"
+    },
+    "correct": "B",
+    "explanation": "Logs provide continuity between shifts and document routine duties and noteworthy events in a factual manner."
+  },
+  {
+    "question": "A guard discovers an unsecured door during patrol. What should they do?",
+    "options": {
+      "A": "Leave it open to see who comes in",
+      "B": "Secure it if authorized, then report per post orders and document",
+      "C": "Ignore it because it is maintenance’s job",
+      "D": "Disable the alarm so it doesn’t trigger"
+    },
+    "correct": "B",
+    "explanation": "Unsecured doors are security risks. Guards should follow site policy: secure if authorized and notify the proper contacts, then document."
+  },
+  {
+    "question": "What is “deterrence” in security?",
+    "options": {
+      "A": "Punishing people after incidents occur",
+      "B": "Reducing the likelihood of incidents through visible presence and controls",
+      "C": "Searching everyone without reason",
+      "D": "Making arrests for minor rule violations"
+    },
+    "correct": "B",
+    "explanation": "Deterrence focuses on preventing incidents by making wrongdoing less likely through visibility, procedures, and awareness."
+  },
+  {
+    "question": "Which is an example of a safety hazard a guard should report immediately?",
+    "options": {
+      "A": "A locked door in a restricted area",
+      "B": "A wet floor with no warning signs",
+      "C": "A visitor signing the log",
+      "D": "A supervisor arriving early"
+    },
+    "correct": "B",
+    "explanation": "A wet floor without warnings is a slip-and-fall hazard. Guards should report and follow site procedures to reduce risk."
+  },
+  {
+    "question": "What is the best practice when receiving instructions that conflict with post orders?",
+    "options": {
+      "A": "Follow the conflicting instruction immediately without question",
+      "B": "Politely pause and seek clarification from the supervisor/authorized contact per chain of command",
+      "C": "Quit the post",
+      "D": "Make up a new policy"
+    },
+    "correct": "B",
+    "explanation": "When instructions conflict, guards should seek clarification through the chain of command to avoid unsafe or unauthorized actions."
+  },
+  {
+    "question": "What should a guard do if they observe suspicious behavior?",
+    "options": {
+      "A": "Approach aggressively to intimidate",
+      "B": "Observe, maintain safety, gather details, and report per procedure",
+      "C": "Immediately accuse the person of a crime",
+      "D": "Ignore it unless a crime is confirmed"
+    },
+    "correct": "B",
+    "explanation": "Suspicious behavior should be handled with observation, safety awareness, and reporting, following site procedures and escalation paths."
+  },
+  {
+    "question": "What is the purpose of an incident report?",
+    "options": {
+      "A": "To entertain other guards",
+      "B": "To create an official, factual record of a specific event and actions taken",
+      "C": "To assign criminal penalties",
+      "D": "To replace calling 911 in emergencies"
+    },
+    "correct": "B",
+    "explanation": "Incident reports document what occurred, who was involved, what was done, and notifications made, creating a reliable record."
+  },
+  {
+    "question": "Which is a key element of effective observation?",
+    "options": {
+      "A": "Assuming motives",
+      "B": "Noticing specific details such as clothing, direction of travel, and distinguishing features",
+      "C": "Only watching for crimes",
+      "D": "Relying on memory instead of notes"
+    },
+    "correct": "B",
+    "explanation": "Good observation focuses on specific, descriptive facts that can be documented and shared accurately."
+  },
+  {
+    "question": "What is the best approach when interacting with a person who is upset but not violent?",
+    "options": {
+      "A": "Interrupt frequently to show control",
+      "B": "Use calm tone, active listening, and clear boundaries, and seek assistance if needed",
+      "C": "Match their volume and attitude",
+      "D": "Threaten them to end the conversation"
+    },
+    "correct": "B",
+    "explanation": "De-escalation uses calm communication and listening while maintaining safety and following site procedures for assistance."
+  },
+  {
+    "question": "Which task is commonly part of access control duties for a guard?",
+    "options": {
+      "A": "Issuing driver’s licenses",
+      "B": "Verifying identification and managing visitor entry per policy",
+      "C": "Writing traffic laws",
+      "D": "Approving building construction plans"
+    },
+    "correct": "B",
+    "explanation": "Guards often verify IDs, issue visitor badges, maintain logs, and enforce entry policies as part of access control."
+  },
+  {
+    "question": "Why should a guard avoid giving legal advice to the public?",
+    "options": {
+      "A": "Because it makes reports shorter",
+      "B": "Because it can create liability and is outside the guard’s role",
+      "C": "Because laws are never relevant",
+      "D": "Because it is required to argue instead"
+    },
+    "correct": "B",
+    "explanation": "Security guards should provide safety guidance and follow procedures, not give legal advice, which can be inaccurate and create liability."
+  },
+  {
+    "question": "What is the best practice regarding confidential information learned on the job?",
+    "options": {
+      "A": "Share it with friends to get advice",
+      "B": "Post it online anonymously",
+      "C": "Keep it confidential and share only with authorized persons for business need",
+      "D": "Trade it for favors"
+    },
+    "correct": "C",
+    "explanation": "Confidentiality is a core responsibility. Information should be shared only with authorized individuals for legitimate operational needs."
+  },
+  {
+    "question": "A guard’s report should generally be written:",
+    "options": {
+      "A": "Using slang and abbreviations that only friends understand",
+      "B": "In a clear, factual, chronological manner",
+      "C": "With assumptions to fill gaps",
+      "D": "Only after several days have passed"
+    },
+    "correct": "B",
+    "explanation": "Clear, factual, chronological reporting improves accuracy and usefulness for supervisors and any follow-up."
+  },
+  {
+    "question": "Which is the best example of maintaining scene integrity after an incident?",
+    "options": {
+      "A": "Letting people walk through to see what happened",
+      "B": "Preserving the area, restricting access, and documenting who enters if required",
+      "C": "Cleaning up immediately before documentation",
+      "D": "Removing items as souvenirs"
+    },
+    "correct": "B",
+    "explanation": "Preserving the scene helps prevent evidence loss and supports investigation, while following site policy and safety requirements."
+  },
+  {
+    "question": "When should a guard request backup or supervisor assistance?",
+    "options": {
+      "A": "Only after a situation becomes violent",
+      "B": "Whenever a situation exceeds training/authority or feels unsafe",
+      "C": "Never, because it shows weakness",
+      "D": "Only at the end of the shift"
+    },
+    "correct": "B",
+    "explanation": "Calling for assistance early helps prevent escalation and supports safe, coordinated response within policy."
+  },
+  {
+    "question": "What is an appropriate way to end a shift transition?",
+    "options": {
+      "A": "Leave without briefing to save time",
+      "B": "Provide a clear pass-down: incidents, open issues, keys/equipment status, and important instructions",
+      "C": "Only mention problems you personally caused",
+      "D": "Hand over personal opinions about coworkers"
+    },
+    "correct": "B",
+    "explanation": "Effective pass-down ensures continuity, reduces errors, and helps the next guard start informed and prepared."
+  },
+  {
+    "question": "What best describes the “observe and report” principle?",
+    "options": {
+      "A": "Confront first to prove authority",
+      "B": "Notice details, document facts, and notify the right people per post orders",
+      "C": "Decide guilt and issue penalties",
+      "D": "Ignore suspicious activity unless a crime is confirmed"
+    },
+    "correct": "B",
+    "explanation": "A core security function is to observe carefully, document objectively, and report through proper channels, rather than acting beyond authority."
+  }
+]

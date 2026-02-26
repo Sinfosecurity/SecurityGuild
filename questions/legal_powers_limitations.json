@@ -1,0 +1,277 @@
+[
+  {
+    "question": "In New York State, a typical security guard’s legal authority is generally best described as:",
+    "options": {
+      "A": "The same as a police officer’s authority",
+      "B": "The same as any private citizen, plus the authority granted by property policy",
+      "C": "Greater than a judge’s authority",
+      "D": "Unlimited authority anywhere in the state"
+    },
+    "correct": "B",
+    "explanation": "Security guards are generally private citizens (unless separately appointed/certified in a special role). Their added authority usually comes from property rules and consent-based policies, not police powers."
+  },
+  {
+    "question": "What is the difference between “law” and “policy” at a private site?",
+    "options": {
+      "A": "They are always the same thing",
+      "B": "Law is made by the company; policy is made by the government",
+      "C": "Law applies broadly and is enforced by the state; policy is site rules set by the property/organization",
+      "D": "Policy only applies to visitors, never employees"
+    },
+    "correct": "C",
+    "explanation": "Law is public and applies generally; policy is a private rule for that site. Guards often enforce policy through access decisions and reporting."
+  },
+  {
+    "question": "A person refuses to follow a site policy and is asked to leave private property. If they refuse to leave, the situation most directly involves:",
+    "options": {
+      "A": "Trespass considerations",
+      "B": "Diplomatic immunity",
+      "C": "Double jeopardy",
+      "D": "Bankruptcy law"
+    },
+    "correct": "A",
+    "explanation": "Refusing to leave private property after being directed can lead to trespass issues. Guards should follow post orders and contact supervisors/law enforcement as required."
+  },
+  {
+    "question": "Which statement best describes “citizen’s arrest” in New York State?",
+    "options": {
+      "A": "It allows a guard to arrest anyone they suspect",
+      "B": "It is generally limited and risky; it depends on specific legal conditions and should follow policy and training",
+      "C": "It is required any time theft occurs",
+      "D": "It gives guards police immunity"
+    },
+    "correct": "B",
+    "explanation": "Citizen’s arrest exists but has strict conditions and significant liability risks. Guards should prioritize safety, observation, and proper notification per post orders."
+  },
+  {
+    "question": "What is one major risk of detaining someone without proper legal grounds?",
+    "options": {
+      "A": "Better evidence collection",
+      "B": "Civil liability such as false imprisonment claims",
+      "C": "Automatic promotion",
+      "D": "It makes reports unnecessary"
+    },
+    "correct": "B",
+    "explanation": "Unlawful detention can lead to false imprisonment and other legal consequences for the guard and employer."
+  },
+  {
+    "question": "A security guard may usually ask to search a bag at a private site because:",
+    "options": {
+      "A": "Guards have constitutional search powers",
+      "B": "The guard can request consent under site policy; entry may be conditioned on compliance",
+      "C": "The guard can force searches anywhere",
+      "D": "The guard can search anyone on public sidewalks"
+    },
+    "correct": "B",
+    "explanation": "At private sites, searches are typically consent-based and policy-driven (conditions of entry). Guards should follow site procedures and avoid using force to search."
+  },
+  {
+    "question": "Which is the best practice if a person refuses a consent-based bag check required by site policy?",
+    "options": {
+      "A": "Physically grab the bag and search anyway",
+      "B": "Allow access to avoid complaints",
+      "C": "Deny entry or follow escalation procedures per post orders",
+      "D": "Confiscate the bag permanently"
+    },
+    "correct": "C",
+    "explanation": "If a search is policy-based and consent is refused, the appropriate response is usually denial of entry and notifying supervisors, not force."
+  },
+  {
+    "question": "Which statement about use of force is most accurate for a security guard?",
+    "options": {
+      "A": "Force should be the first option to gain compliance",
+      "B": "Only use the minimum reasonable force necessary, and only when justified (such as self-defense)",
+      "C": "Deadly force is allowed to protect property",
+      "D": "Handcuffing is always permitted"
+    },
+    "correct": "B",
+    "explanation": "Use of force must be justified and proportionate. In most cases, guards should avoid force and focus on safety, de-escalation, and calling for assistance."
+  },
+  {
+    "question": "Which situation most clearly supports calling 911 immediately?",
+    "options": {
+      "A": "A routine visitor complaint",
+      "B": "An active fire or medical emergency with life-threatening symptoms",
+      "C": "A missing pen at reception",
+      "D": "A minor policy disagreement"
+    },
+    "correct": "B",
+    "explanation": "Life-safety emergencies require immediate emergency services activation per policy, while non-emergencies typically follow normal reporting channels."
+  },
+  {
+    "question": "If a guard finds suspected illegal drugs on the floor, what is the best general approach?",
+    "options": {
+      "A": "Taste the substance to confirm",
+      "B": "Handle it extensively to look for fingerprints",
+      "C": "Follow post orders: secure area if needed, notify supervisor/law enforcement as required, and document",
+      "D": "Throw it away to avoid trouble"
+    },
+    "correct": "C",
+    "explanation": "Suspicious items should be handled per policy with safety and evidence preservation in mind. Do not test or unnecessarily handle unknown substances."
+  },
+  {
+    "question": "Which is a correct statement about the U.S. Constitution and private security?",
+    "options": {
+      "A": "It always applies to any guard action exactly like police action",
+      "B": "Constitutional restrictions typically apply to government actors; private property policies and civil law often govern guard actions",
+      "C": "It forbids any private site from having rules",
+      "D": "It requires guards to read Miranda warnings"
+    },
+    "correct": "B",
+    "explanation": "Constitutional search/seizure rules generally limit government actors. Private security must still follow laws (e.g., assault, unlawful detention) and site policies."
+  },
+  {
+    "question": "A guard sees someone shoplifting. The safest and most appropriate first action is usually to:",
+    "options": {
+      "A": "Immediately tackle the person",
+      "B": "Observe, notify per policy, and use de-escalation while maintaining safety",
+      "C": "Follow the person into traffic",
+      "D": "Start yelling accusations"
+    },
+    "correct": "B",
+    "explanation": "Safety and policy come first. Many organizations require observation and immediate notification rather than physical confrontation."
+  },
+  {
+    "question": "What is the best reason to avoid chasing a suspect off property?",
+    "options": {
+      "A": "It always results in an arrest",
+      "B": "It can create safety risks and legal liability outside the guard’s authority and post orders",
+      "C": "It makes the suspect confess",
+      "D": "It guarantees recovery of property"
+    },
+    "correct": "B",
+    "explanation": "Foot pursuits can be dangerous and may violate policy. Guards should prioritize safety, observation, description, and proper notification."
+  },
+  {
+    "question": "A guard is asked to “ban” a person from private property. What is typically required for this to be effective?",
+    "options": {
+      "A": "A verbal rumor",
+      "B": "Documentation and authorization per site policy (and clear communication of no-trespass notice when applicable)",
+      "C": "A guard’s personal dislike",
+      "D": "A federal court order in every case"
+    },
+    "correct": "B",
+    "explanation": "Bans/no-trespass actions should follow site policy and be properly documented and communicated through authorized management."
+  },
+  {
+    "question": "Which action is most appropriate when dealing with an intoxicated person who is not violent?",
+    "options": {
+      "A": "Use force to remove them immediately",
+      "B": "De-escalate, maintain distance, get assistance, and follow site procedures for removal/medical help if needed",
+      "C": "Ignore them completely",
+      "D": "Argue to prove a point"
+    },
+    "correct": "B",
+    "explanation": "Intoxication can change quickly. Use calm communication, keep safety first, and follow escalation procedures and medical protocols if needed."
+  },
+  {
+    "question": "A guard finds a lost wallet. What is the best action?",
+    "options": {
+      "A": "Look through it and keep any cash for safekeeping",
+      "B": "Follow lost-and-found procedures, document, and secure it per policy",
+      "C": "Leave it where it is to avoid involvement",
+      "D": "Give it to the first person who claims it"
+    },
+    "correct": "B",
+    "explanation": "Found property should be secured and documented per policy to prevent theft allegations and ensure proper return."
+  },
+  {
+    "question": "Which statement about handcuffs is most appropriate for most unarmed guard posts?",
+    "options": {
+      "A": "Handcuffs should be used on anyone who argues",
+      "B": "Handcuffs are a medical device",
+      "C": "Use of restraints is typically limited by policy, training, and legal considerations; many posts prohibit it",
+      "D": "Handcuffs replace communication skills"
+    },
+    "correct": "C",
+    "explanation": "Restraints can create injury and liability. Their use must follow training and post orders; many sites do not allow them."
+  },
+  {
+    "question": "What should a guard do if law enforcement arrives and requests information?",
+    "options": {
+      "A": "Refuse to speak under any circumstances",
+      "B": "Provide factual observations and documentation as authorized, and coordinate through supervisors if required",
+      "C": "Invent details to be helpful",
+      "D": "Demand payment before speaking"
+    },
+    "correct": "B",
+    "explanation": "Guards should provide accurate, factual information and follow site protocols for law enforcement interaction and releasing records."
+  },
+  {
+    "question": "Which is the best way to protect the guard and employer from liability?",
+    "options": {
+      "A": "Do whatever seems right in the moment",
+      "B": "Follow post orders, stay within training/authority, document accurately, and use de-escalation",
+      "C": "Use force early to control the scene",
+      "D": "Avoid documentation to reduce paper trail"
+    },
+    "correct": "B",
+    "explanation": "Policy compliance, good documentation, appropriate communication, and staying within authority reduce risk and improve outcomes."
+  },
+  {
+    "question": "A guard is asked to remove someone from a building. The guard should first consider:",
+    "options": {
+      "A": "Whether the person is famous",
+      "B": "Post orders, safety, whether removal is authorized, and whether additional assistance is needed",
+      "C": "Whether the guard is angry",
+      "D": "Whether the person promises a tip"
+    },
+    "correct": "B",
+    "explanation": "Removal should follow policy and be conducted safely, often with supervisory involvement, especially if confrontation is likely."
+  },
+  {
+    "question": "What does “reasonable” mean in a security context when describing actions or force?",
+    "options": {
+      "A": "Whatever the guard wants",
+      "B": "What a typical person would view as appropriate under the circumstances",
+      "C": "Always the maximum force possible",
+      "D": "Only what the victim demands"
+    },
+    "correct": "B",
+    "explanation": "Reasonableness depends on the total circumstances. Actions should be proportionate, necessary, and consistent with training and policy."
+  },
+  {
+    "question": "If a guard witnesses a felony-level incident in progress, the guard’s best general course is to:",
+    "options": {
+      "A": "Assume it is not real",
+      "B": "Prioritize safety, call 911, observe and report details, and follow emergency procedures",
+      "C": "Confront and fight alone",
+      "D": "Destroy evidence to protect privacy"
+    },
+    "correct": "B",
+    "explanation": "Guards should prioritize life safety and timely law enforcement response while observing and documenting, consistent with post orders."
+  },
+  {
+    "question": "What is typically required to work as a security guard in NYS (general overview)?",
+    "options": {
+      "A": "No registration or training is required",
+      "B": "Proper registration/licensing steps and required training (including pre-assignment) as required by NYS rules",
+      "C": "A law degree",
+      "D": "Only military service"
+    },
+    "correct": "B",
+    "explanation": "New York requires specific registration and training requirements for security guards, including pre-assignment training and additional training per timelines."
+  },
+  {
+    "question": "A key limitation of a security guard’s role is that they should not:",
+    "options": {
+      "A": "Write reports",
+      "B": "Provide safety information and directions",
+      "C": "Impersonate law enforcement or claim police authority",
+      "D": "Notify supervisors"
+    },
+    "correct": "C",
+    "explanation": "Security guards must not impersonate law enforcement. They should be clear about their role, authority, and responsibilities."
+  },
+  {
+    "question": "Who typically has the legal obligation to give Miranda warnings during custodial interrogation?",
+    "options": {
+      "A": "Any private citizen",
+      "B": "Only sworn law enforcement (government actors) in specific custodial interrogation situations",
+      "C": "Security guards at all times",
+      "D": "Any store employee"
+    },
+    "correct": "B",
+    "explanation": "Miranda warnings are generally a law enforcement requirement during custodial interrogation. Security guards should follow policy, avoid giving legal advice, and contact law enforcement as needed."
+  }
+]

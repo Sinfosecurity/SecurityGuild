@@ -1,0 +1,130 @@
+body {
+  font-family: Inter, Arial, sans-serif;
+  background: #f6f7fb;
+  color: #222;
+  margin: 0;
+}
+#app {
+  max-width: 780px;
+  margin: 32px auto;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px #1727431a;
+  overflow: hidden;
+}
+header {
+  background: #0a2050;
+  color: #fff;
+  padding: 24px 36px;
+  text-align: center;
+}
+main {
+  padding: 32px;
+}
+.categories,
+.start-mock {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin-bottom: 32px;
+}
+.categories button,
+.start-mock button {
+  padding: 14px 22px;
+  font-size: 1.1em;
+  background: #113978;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+.categories button:disabled,
+.start-mock button:disabled {
+  background: #8ea3c6;
+  cursor: not-allowed;
+  opacity: 0.75;
+}
+.categories button:hover,
+.start-mock button:hover {
+  background: #2458a4;
+}
+.categories button:disabled:hover,
+.start-mock button:disabled:hover {
+  background: #8ea3c6;
+}
+#quiz, #results, #review {
+  margin-top: 26px;
+}
+.question {
+  font-size: 1.2em;
+  margin-bottom: 16px;
+}
+.options {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.options button {
+  background: #f1f5fa;
+  border: 1px solid #b5c5e3;
+  border-radius: 4px;
+  padding: 12px;
+  transition: border 0.2s;
+  cursor: pointer;
+  text-align: left;
+}
+.options button.selected {
+  border: 2px solid #325bd6;
+}
+.options button.correct {
+  background: #caf2cc;
+  border-color: #35b93d;
+}
+.options button.incorrect {
+  background: #ffcec8;
+  border-color: #df3f3f;
+}
+#quiz .next-btn {
+  margin-top: 18px;
+  background: #2458a4;
+  color: #fff;
+}
+#quiz .next-btn:disabled {
+  background: #cfd8e3;
+  cursor: not-allowed;
+}
+.timer {
+  float: right;
+  color: #113978;
+  font-weight: bold;
+}
+.results-summary,
+.review-list {
+  margin-top: 16px;
+}
+.notice {
+  background: #f1f5fa;
+  border: 1px solid #b5c5e3;
+  border-radius: 10px;
+  padding: 16px;
+  margin-top: 16px;
+}
+.notice h2 {
+  margin: 0 0 8px 0;
+}
+.notice p {
+  margin: 0 0 12px 0;
+}
+.score-pass {
+  color: #26912b;
+  font-weight: bold;
+}
+.score-fail {
+  color: #cf2d2d;
+  font-weight: bold;
+}
+@media (max-width: 700px) {
+  main { padding: 14px; }
+  header { padding: 16px 8px; }
+}

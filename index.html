@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>NYS Security Guard Quiz</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div id="app">
+    <header>
+      <h1>NYS Security Guard 8-Hour Pre-Assignment Training Exam</h1>
+    </header>
+    <main id="main">
+      <section id="category-selection">
+        <h2>Select a Category</h2>
+        <div class="categories">
+          <button data-category="role_of_security_guard">Role of Security Guard</button>
+          <button data-category="legal_powers_limitations">Legal Powers &amp; Limitations</button>
+          <button data-category="emergency_situations">Emergency Situations</button>
+          <button data-category="communications_public_relations">Communications &amp; Public Relations</button>
+          <button data-category="access_control">Access Control</button>
+          <button data-category="ethics_conduct">Ethics &amp; Conduct</button>
+        </div>
+        <div class="start-mock">
+          <button id="start-mock-exam">Start 25-Question Timed Mock Exam</button>
+        </div>
+      </section>
+      <section id="quiz" class="hidden"></section>
+      <section id="review" class="hidden"></section>
+      <section id="results" class="hidden"></section>
+    </main>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>

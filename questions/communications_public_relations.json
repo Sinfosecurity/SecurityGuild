@@ -1,0 +1,277 @@
+[
+  {
+    "question": "What is the most important goal of effective communication for a security guard?",
+    "options": {
+      "A": "To sound intimidating",
+      "B": "To achieve safety and compliance through clear, respectful messages",
+      "C": "To win arguments",
+      "D": "To use as many technical terms as possible"
+    },
+    "correct": "B",
+    "explanation": "Security communication should support safety, reduce conflict, and ensure instructions are understood and followed."
+  },
+  {
+    "question": "Which is an example of active listening?",
+    "options": {
+      "A": "Interrupting to correct the person",
+      "B": "Repeating back key points to confirm understanding",
+      "C": "Looking away while the person speaks",
+      "D": "Using sarcasm to show confidence"
+    },
+    "correct": "B",
+    "explanation": "Active listening includes paying attention, acknowledging, and confirming understanding (paraphrasing/reflecting)."
+  },
+  {
+    "question": "When giving directions during a stressful situation, the guard should:",
+    "options": {
+      "A": "Give multiple instructions at once",
+      "B": "Use short, clear instructions and a calm tone",
+      "C": "Use slang to seem relatable",
+      "D": "Avoid eye contact"
+    },
+    "correct": "B",
+    "explanation": "Clear, calm, simple directions are easier to follow during stress and reduce confusion."
+  },
+  {
+    "question": "Which nonverbal behavior can escalate a situation?",
+    "options": {
+      "A": "Keeping a safe distance",
+      "B": "Clenched fists and aggressive posture",
+      "C": "Neutral facial expression",
+      "D": "Open hands at waist level"
+    },
+    "correct": "B",
+    "explanation": "Aggressive posture and clenched fists can signal threat and escalate. Guards should maintain a professional, non-threatening stance."
+  },
+  {
+    "question": "What is a common de-escalation technique?",
+    "options": {
+      "A": "Matching the person’s anger",
+      "B": "Lowering your voice and slowing down your speech",
+      "C": "Standing nose-to-nose to show authority",
+      "D": "Threatening consequences immediately"
+    },
+    "correct": "B",
+    "explanation": "A calm voice, slower pace, and respectful communication can reduce emotional intensity and help regain control."
+  },
+  {
+    "question": "Which statement is most appropriate when enforcing a site rule?",
+    "options": {
+      "A": "Because I said so",
+      "B": "If you don’t like it, leave forever",
+      "C": "Site policy requires this. I can help you with the next steps, or I can call a supervisor to speak with you",
+      "D": "You’re acting suspicious"
+    },
+    "correct": "C",
+    "explanation": "Referencing policy, offering options, and involving supervisors supports professionalism and reduces conflict."
+  },
+  {
+    "question": "On a radio, what is a best practice to reduce misunderstandings?",
+    "options": {
+      "A": "Talk as fast as possible",
+      "B": "Use clear text, identify yourself/location, and keep messages concise",
+      "C": "Use personal nicknames only",
+      "D": "Share confidential details over an open channel"
+    },
+    "correct": "B",
+    "explanation": "Clear identification and concise messages reduce errors. Sensitive information should be handled per policy (secure channels/phone)."
+  },
+  {
+    "question": "What should a guard do if they do not understand a radio instruction?",
+    "options": {
+      "A": "Pretend to understand",
+      "B": "Ask for clarification or repeat back the instruction for confirmation",
+      "C": "Ignore the instruction",
+      "D": "Respond with sarcasm"
+    },
+    "correct": "B",
+    "explanation": "Clarification and repeat-back prevent mistakes and improve safety."
+  },
+  {
+    "question": "Why should a guard avoid arguing with a complaining visitor?",
+    "options": {
+      "A": "Arguments always improve compliance",
+      "B": "Arguments can escalate conflict and harm the site’s image",
+      "C": "Because visitors are always correct",
+      "D": "Because policies never apply to visitors"
+    },
+    "correct": "B",
+    "explanation": "Professional, calm responses help de-escalate and maintain positive public relations while enforcing policy."
+  },
+  {
+    "question": "Which is an example of an open-ended question useful in de-escalation?",
+    "options": {
+      "A": "Are you always like this?",
+      "B": "What happened today that upset you?",
+      "C": "Why are you lying?",
+      "D": "Do you want to get arrested?"
+    },
+    "correct": "B",
+    "explanation": "Open-ended questions encourage explanation and can reduce tension by letting the person feel heard."
+  },
+  {
+    "question": "What is the best response if a person uses insulting language?",
+    "options": {
+      "A": "Insult them back",
+      "B": "Stay calm, set boundaries, and focus on the issue and safety",
+      "C": "Immediately use force",
+      "D": "Start recording and mocking them"
+    },
+    "correct": "B",
+    "explanation": "Guards should remain professional, not take insults personally, and maintain safety while enforcing rules."
+  },
+  {
+    "question": "Which is a good “boundary” statement?",
+    "options": {
+      "A": "Calm down right now",
+      "B": "If you keep yelling, I will not be able to help. Let’s speak respectfully so we can resolve this",
+      "C": "You’re being crazy",
+      "D": "I don’t care"
+    },
+    "correct": "B",
+    "explanation": "Boundaries explain expectations and consequences in a respectful way, supporting de-escalation."
+  },
+  {
+    "question": "What is the best practice for communicating with someone who has limited English proficiency?",
+    "options": {
+      "A": "Speak louder and faster",
+      "B": "Use simple words, gestures if appropriate, and request translation support per policy",
+      "C": "Ignore them",
+      "D": "Use slang to help them understand"
+    },
+    "correct": "B",
+    "explanation": "Simple language and approved translation support reduce misunderstandings and help ensure instructions are understood."
+  },
+  {
+    "question": "Which communication style is most likely to escalate conflict?",
+    "options": {
+      "A": "Respectful and calm",
+      "B": "Sarcastic and dismissive",
+      "C": "Clear and firm",
+      "D": "Empathetic and professional"
+    },
+    "correct": "B",
+    "explanation": "Sarcasm and dismissiveness can provoke anger and resistance."
+  },
+  {
+    "question": "A guard should generally avoid sharing which information with the public?",
+    "options": {
+      "A": "Directions to a public restroom",
+      "B": "Confidential security procedures (camera blind spots, patrol schedules, alarm codes)",
+      "C": "Where the front desk is",
+      "D": "How to reach the manager during business hours"
+    },
+    "correct": "B",
+    "explanation": "Security-sensitive details can be exploited. Share only what is appropriate and authorized."
+  },
+  {
+    "question": "What is the most appropriate way to address a person who is violating a minor policy (e.g., eating in a restricted area)?",
+    "options": {
+      "A": "Yell to embarrass them",
+      "B": "Approach calmly, explain the rule, and request compliance respectfully",
+      "C": "Physically remove the food",
+      "D": "Ignore it every time"
+    },
+    "correct": "B",
+    "explanation": "Professional, respectful requests usually work best and reduce escalation, while still enforcing policy."
+  },
+  {
+    "question": "Why is documentation part of communication?",
+    "options": {
+      "A": "It helps spread rumors",
+      "B": "It creates a reliable record that can be shared with supervisors and used for follow-up",
+      "C": "It replaces speaking to people",
+      "D": "It is only for entertainment"
+    },
+    "correct": "B",
+    "explanation": "Written documentation communicates facts to others across shifts and supports decision-making and investigations."
+  },
+  {
+    "question": "Which is a best practice when dealing with media or reporters at an incident?",
+    "options": {
+      "A": "Provide all details to appear helpful",
+      "B": "Follow site policy and direct them to the authorized spokesperson",
+      "C": "Argue with them",
+      "D": "Make up statements to end the conversation"
+    },
+    "correct": "B",
+    "explanation": "Most sites require media inquiries to go through designated spokespeople. Guards should not release unauthorized information."
+  },
+  {
+    "question": "What is the best way to communicate during a noisy environment over radio?",
+    "options": {
+      "A": "Whisper quickly",
+      "B": "Move to a quieter area if safe, speak clearly, and repeat key details (location, description)",
+      "C": "Stop communicating",
+      "D": "Use only code words that nobody understands"
+    },
+    "correct": "B",
+    "explanation": "Clarity matters: reduce background noise when possible, speak clearly, and repeat critical information."
+  },
+  {
+    "question": "Which is an example of good customer service while maintaining security?",
+    "options": {
+      "A": "Letting anyone in to avoid complaints",
+      "B": "Greeting visitors, explaining procedures, and applying rules consistently",
+      "C": "Only helping people you like",
+      "D": "Ignoring questions"
+    },
+    "correct": "B",
+    "explanation": "Security and customer service can work together: respectful communication and consistent rules reduce friction and improve compliance."
+  },
+  {
+    "question": "If a person becomes verbally aggressive, what is a safe positioning practice?",
+    "options": {
+      "A": "Stand directly in front of them blocking their exit",
+      "B": "Maintain reactionary distance and an angle (interview stance) while keeping exits and safety in mind",
+      "C": "Turn your back to them",
+      "D": "Stand within arm’s reach"
+    },
+    "correct": "B",
+    "explanation": "Reactionary distance and angled stance increase safety and reduce perceived confrontation while allowing observation and communication."
+  },
+  {
+    "question": "Why is it important to remain impartial when taking statements from witnesses?",
+    "options": {
+      "A": "So you can decide who is guilty",
+      "B": "So you can document facts without bias and improve credibility",
+      "C": "So you can change details to match your assumptions",
+      "D": "So you can ignore some witnesses"
+    },
+    "correct": "B",
+    "explanation": "Impartiality supports accurate documentation and credibility. Guards should capture facts and quotes, not conclusions."
+  },
+  {
+    "question": "Which is a best practice when communicating with someone who is emotionally distressed?",
+    "options": {
+      "A": "Tell them their feelings do not matter",
+      "B": "Use a calm tone, acknowledge feelings, and focus on safe next steps",
+      "C": "Laugh to lighten the mood",
+      "D": "Give medical advice beyond your training"
+    },
+    "correct": "B",
+    "explanation": "Acknowledging feelings can reduce escalation and help the person cooperate, while the guard focuses on safety and appropriate support."
+  },
+  {
+    "question": "A guard receives a complaint about discrimination. The best first response is to:",
+    "options": {
+      "A": "Dismiss it as drama",
+      "B": "Listen respectfully, document facts, and notify supervisors per policy",
+      "C": "Argue about it publicly",
+      "D": "Post it online for opinions"
+    },
+    "correct": "B",
+    "explanation": "Sensitive complaints require respectful listening, factual documentation, and escalation through proper channels."
+  },
+  {
+    "question": "What is “clear, concise, complete” communication?",
+    "options": {
+      "A": "Using long stories and opinions",
+      "B": "Sharing only the essential facts needed to understand and act, without unnecessary details",
+      "C": "Using as many abbreviations as possible",
+      "D": "Avoiding time and location"
+    },
+    "correct": "B",
+    "explanation": "Effective communication gives essential facts (who/what/when/where/risks/needs) so others can respond correctly."
+  }
+]

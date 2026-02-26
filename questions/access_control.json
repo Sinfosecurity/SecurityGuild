@@ -1,0 +1,277 @@
+[
+  {
+    "question": "What is the main purpose of access control?",
+    "options": {
+      "A": "To make entry inconvenient for everyone",
+      "B": "To ensure only authorized people and items enter restricted areas",
+      "C": "To replace all security staff",
+      "D": "To prevent employees from doing their jobs"
+    },
+    "correct": "B",
+    "explanation": "Access control is designed to limit entry to authorized individuals and prevent unauthorized access to people, assets, and information."
+  },
+  {
+    "question": "Which is a common access control method?",
+    "options": {
+      "A": "Ignoring the door alarm",
+      "B": "Badges/ID checks and visitor management",
+      "C": "Letting people follow closely behind you",
+      "D": "Sharing alarm codes openly"
+    },
+    "correct": "B",
+    "explanation": "Badges, IDs, visitor logs, and controlled entry points are standard access control measures."
+  },
+  {
+    "question": "What is “tailgating” in access control?",
+    "options": {
+      "A": "Driving too close on a highway",
+      "B": "An unauthorized person following an authorized person through a secure door",
+      "C": "A type of alarm sensor",
+      "D": "A visitor sign-in sheet"
+    },
+    "correct": "B",
+    "explanation": "Tailgating (or piggybacking) is a common security risk where someone gains access by following an authorized person."
+  },
+  {
+    "question": "If you observe tailgating at a secure door, the best action is generally to:",
+    "options": {
+      "A": "Ignore it if the person looks friendly",
+      "B": "Follow site procedure: stop and verify authorization, and report if needed",
+      "C": "Shout accusations across the lobby",
+      "D": "Physically tackle the person"
+    },
+    "correct": "B",
+    "explanation": "Tailgating should be addressed per policy by verifying credentials and reporting, while maintaining safety and professionalism."
+  },
+  {
+    "question": "What should a visitor typically do before being allowed beyond a public lobby area?",
+    "options": {
+      "A": "Walk in quickly to avoid being noticed",
+      "B": "Sign in, show identification if required, receive a visitor badge, and be escorted if policy requires",
+      "C": "Promise they have been there before",
+      "D": "Call a friend inside"
+    },
+    "correct": "B",
+    "explanation": "Visitor management usually includes sign-in, ID verification as required, issuing a badge, and escort procedures depending on site policy."
+  },
+  {
+    "question": "Why should visitor badges be visibly displayed?",
+    "options": {
+      "A": "So visitors can skip sign-in",
+      "B": "So staff can quickly identify authorized visitors and challenge unknown persons",
+      "C": "So visitors can access restricted systems",
+      "D": "So the guard does not have to work"
+    },
+    "correct": "B",
+    "explanation": "Visible badges make it easier to spot unauthorized individuals and enforce access rules."
+  },
+  {
+    "question": "What should a guard do if someone claims they forgot their badge?",
+    "options": {
+      "A": "Let them in because they are probably honest",
+      "B": "Follow site procedure for identity verification and temporary credentials (if authorized), and document as required",
+      "C": "Issue a permanent badge immediately",
+      "D": "Tell them to climb through a side door"
+    },
+    "correct": "B",
+    "explanation": "Badge exceptions should follow policy to prevent unauthorized access. Temporary passes and verification steps must be documented if required."
+  },
+  {
+    "question": "Which is a good practice for key control?",
+    "options": {
+      "A": "Let anyone borrow master keys",
+      "B": "Track issuance/return of keys and store them securely when not in use",
+      "C": "Label keys with door locations on the keyring for convenience",
+      "D": "Leave keys unattended at the desk"
+    },
+    "correct": "B",
+    "explanation": "Key control requires secure storage and accountability to prevent unauthorized duplication or access."
+  },
+  {
+    "question": "Why is it risky to label keys with exact door names/locations?",
+    "options": {
+      "A": "It makes them heavier",
+      "B": "If lost or stolen, it helps someone identify what the keys open",
+      "C": "It improves security",
+      "D": "It makes the lock stronger"
+    },
+    "correct": "B",
+    "explanation": "Labels can aid an intruder. Many sites use coded labeling to reduce risk if keys are lost."
+  },
+  {
+    "question": "What is the purpose of a sign-in log (visitor log or contractor log)?",
+    "options": {
+      "A": "To track who is on-site for safety and accountability",
+      "B": "To collect gossip",
+      "C": "To replace ID checks",
+      "D": "To avoid issuing badges"
+    },
+    "correct": "A",
+    "explanation": "Logs support accountability, emergency evacuation checks, and follow-up if an incident occurs."
+  },
+  {
+    "question": "A delivery arrives at a restricted entrance. What should be done?",
+    "options": {
+      "A": "Let the driver wander inside to find the right person",
+      "B": "Follow delivery procedures: verify authorization, direct to proper receiving area, and document as required",
+      "C": "Accept all packages without checking",
+      "D": "Open all packages to see what is inside"
+    },
+    "correct": "B",
+    "explanation": "Deliveries should follow site receiving procedures for security and safety. Opening packages is not typically authorized and can be unsafe."
+  },
+  {
+    "question": "What is an appropriate response if a package looks suspicious?",
+    "options": {
+      "A": "Shake it to see if anything moves",
+      "B": "Do not touch it; isolate area and notify per procedure",
+      "C": "Throw it in a trash can",
+      "D": "Bring it to the lobby for inspection"
+    },
+    "correct": "B",
+    "explanation": "Suspicious packages should not be handled. Follow site protocol for isolation and notification."
+  },
+  {
+    "question": "Which is an example of a physical access control barrier?",
+    "options": {
+      "A": "A written policy only",
+      "B": "A locked door or turnstile",
+      "C": "A rumor about consequences",
+      "D": "A social media post"
+    },
+    "correct": "B",
+    "explanation": "Physical barriers like locks, doors, and turnstiles restrict entry and are part of layered security."
+  },
+  {
+    "question": "What should a guard do if they see a door propped open in a secure area?",
+    "options": {
+      "A": "Leave it open because it is convenient",
+      "B": "Close/secure it if authorized and report the violation per policy",
+      "C": "Block it with a chair permanently",
+      "D": "Disable alarms so it won’t alert"
+    },
+    "correct": "B",
+    "explanation": "Propped doors defeat access control. Secure the door if authorized and notify the appropriate contacts per policy."
+  },
+  {
+    "question": "Why is CCTV (video surveillance) helpful in access control?",
+    "options": {
+      "A": "It guarantees prevention of all crime",
+      "B": "It helps monitor entry points and provides documentation of events",
+      "C": "It eliminates the need for policies",
+      "D": "It replaces emergency response"
+    },
+    "correct": "B",
+    "explanation": "CCTV supports monitoring and documentation, but it is only one layer and does not replace physical controls or procedures."
+  },
+  {
+    "question": "What is a best practice when using CCTV monitors?",
+    "options": {
+      "A": "Focus on one camera all day",
+      "B": "Scan systematically, prioritize critical areas, and report suspicious activity promptly",
+      "C": "Record personal videos",
+      "D": "Ignore alarms because cameras exist"
+    },
+    "correct": "B",
+    "explanation": "Effective monitoring requires systematic scanning, attention to alarms/critical areas, and timely reporting."
+  },
+  {
+    "question": "If an access control alarm indicates a forced door, the guard should:",
+    "options": {
+      "A": "Assume it is a glitch every time",
+      "B": "Follow alarm response procedures: verify if safe, notify, and request assistance as needed",
+      "C": "Turn off the alarm permanently",
+      "D": "Ignore it unless someone complains"
+    },
+    "correct": "B",
+    "explanation": "Alarms must be treated seriously and handled according to the response plan while maintaining safety."
+  },
+  {
+    "question": "Why should access decisions be applied consistently?",
+    "options": {
+      "A": "Consistency reduces accusations of favoritism and improves security",
+      "B": "Consistency makes people angry",
+      "C": "Consistency is illegal",
+      "D": "Consistency prevents any need for reporting"
+    },
+    "correct": "A",
+    "explanation": "Consistent enforcement improves security and fairness and helps avoid conflict and complaints."
+  },
+  {
+    "question": "What is an appropriate action if someone presents an expired ID for entry where current ID is required?",
+    "options": {
+      "A": "Accept it because it looks official",
+      "B": "Follow policy: deny entry or seek supervisor guidance and use approved alternative verification",
+      "C": "Photocopy it and post it publicly",
+      "D": "Confiscate it"
+    },
+    "correct": "B",
+    "explanation": "If policy requires current ID, expired ID may not be acceptable. Guards should follow procedures and involve supervisors if needed."
+  },
+  {
+    "question": "What should a guard do if they find an unattended access badge on the ground?",
+    "options": {
+      "A": "Use it to test doors",
+      "B": "Secure it and follow lost-badge procedures (notify, document, turn in)",
+      "C": "Keep it as a spare",
+      "D": "Leave it where it is"
+    },
+    "correct": "B",
+    "explanation": "Badges are controlled items. Lost badges should be secured and reported so they can be deactivated if necessary."
+  },
+  {
+    "question": "Why is escorting visitors sometimes required?",
+    "options": {
+      "A": "To make visitors feel unwelcome",
+      "B": "To prevent unauthorized access to sensitive areas and ensure visitors follow rules",
+      "C": "To avoid signing them in",
+      "D": "To allow visitors to access secure systems"
+    },
+    "correct": "B",
+    "explanation": "Escorts help maintain access control by keeping visitors in approved areas and ensuring compliance with site rules."
+  },
+  {
+    "question": "Which item is most important to include when documenting an access control incident?",
+    "options": {
+      "A": "Personal opinions about the person’s attitude",
+      "B": "Facts: time, location, identity/description, what happened, actions taken, and notifications made",
+      "C": "Rumors from other employees",
+      "D": "Predictions about future events"
+    },
+    "correct": "B",
+    "explanation": "Factual documentation supports follow-up and credibility and helps supervisors or investigators understand what occurred."
+  },
+  {
+    "question": "What is “layered security” in access control?",
+    "options": {
+      "A": "Using only one strong lock",
+      "B": "Combining multiple measures (people, procedures, and technology) so no single failure causes a breach",
+      "C": "Relying only on cameras",
+      "D": "Relying only on signs"
+    },
+    "correct": "B",
+    "explanation": "Layered security uses overlapping controls (badges, locks, cameras, patrols, logs) to reduce risk."
+  },
+  {
+    "question": "Why should guards avoid sharing access codes or credentials?",
+    "options": {
+      "A": "Because codes are not useful",
+      "B": "Because it violates security policy and can allow unauthorized access",
+      "C": "Because it is polite to share them",
+      "D": "Because it makes doors lock faster"
+    },
+    "correct": "B",
+    "explanation": "Credentials are sensitive security information. Sharing them undermines access control and can create serious security and liability issues."
+  },
+  {
+    "question": "At the end of a shift, which access control task is most appropriate?",
+    "options": {
+      "A": "Leave doors unlocked so the next shift has less work",
+      "B": "Complete pass-down: report open issues, confirm key/badge logs, and ensure posts/equipment are secured per policy",
+      "C": "Throw away visitor logs",
+      "D": "Disable alarms"
+    },
+    "correct": "B",
+    "explanation": "Shift changes require accountability: proper pass-down, securing equipment, and completing required logs help maintain continuous access control."
+  }
+]
